@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Base URL for all API requests
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api'
+  baseURL: 'https://job-tracker-application-vgl1.onrender.com/api'
 });
 
 // Automatically add token to every request if user is logged in
