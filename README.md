@@ -1,5 +1,11 @@
 # Job Tracker
 
+🔗 Live Demo
+
+Live Demo: https://job-tracker-application-mu.vercel.app
+
+Backend API: https://job-tracker-application-vgl1.onrender.com
+
 A full-stack Job Application Tracker that helps users organize and monitor their job applications in one place.
 
 ## Features
