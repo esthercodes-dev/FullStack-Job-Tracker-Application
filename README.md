@@ -26,6 +26,18 @@ A full-stack Job Application Tracker that helps users organize and monitor their
 - MongoDB
 - JWT Authentication
 
+  ## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Job
+![Add Job](screenshots/add-application.png)
+
+
 ## Project Structure
 
 ```
