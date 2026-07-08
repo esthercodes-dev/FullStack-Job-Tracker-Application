@@ -1,20 +1,16 @@
 # Dependencies
-frontend/node_modules/
-backend/node_modules/
+job-tracker-frontend/node_modules/
+job-tracker/node_modules/
 
-# Environment variables
-frontend/.env
-backend/.env
+# Build output
+job-tracker-frontend/dist/
 
-# Build files
-frontend/dist/
+# Environment files
+job-tracker/.env
+job-tracker-frontend/.env
 
 # Logs
 *.log
 
 # VS Code
 .vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
